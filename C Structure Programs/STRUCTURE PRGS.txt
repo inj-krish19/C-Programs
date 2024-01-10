@@ -1,0 +1,22 @@
+Msc(CS) sem-1, Department of Computer Science
+Fundamentals of Programming
+Programming exercises using ‘structures’
+
+1.	Structures and union programs discussed in last classes.
+
+2.	Create a structure of employee with its fields as name, age, work experience, gender, salary and hometown. Write a ‘C’ program accept data for 50 employees. 
+a.	Display data of all employees whose salary is more than 50000.
+b.	Count number of female employees and display the count.
+c.	Count number of employees whose hometown is not ‘Ahmedabad’.
+d.	Update salary by 10% of all employees whose work experience is more than 15 years.
+
+
+3.	Create a structure of student with fields as name, age, last degree, percentage obtained in last degree, mobile no., and scholarship. Write a ‘C’ program to create 100 students. Write functions to do the following.
+a.	Give count of male and female students
+b.	Display data of all male students whose age is greater than 20.
+c.	Display list of students whose last degree is B.Sc
+d.	Assign scholarship based on following criteria
+	i.	< 50% no scholarship
+	ii.	>51% and <70% ,  20% scholarship
+	iii.	>71%  and < 90% ,  30% scholarship
+	iv.	>91% full scholarship.
